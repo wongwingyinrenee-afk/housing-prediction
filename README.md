@@ -10,3 +10,8 @@ Key outcomes include uncovering the most influential features affecting buying d
 - Feature engineering  
 - Model selection & evaluation  
 - Business insights communication
+
+
+data source 
+https://www.kaggle.com/datasets/mohankrishnathalla/global-house-purchase-decision-dataset/data
+https://www.numbeo.com/property-investment/rankings_by_country.jsp?title=2024
