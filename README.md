@@ -1,5 +1,12 @@
-# housing-prediction
-Predicts customer home purchase decisions using Python and machine learning models (Logistic Regression, MLP, Random Forest) with real estate features and 200,000 records. Provides actionable insights for agents to improve property recommendations and sales strategies
+# Housing-Prediction: Data-Driven Insights for Real Estate
 
-This project analyzes over 200,000 real estate transaction records to predict customer home purchase decisions. It leverages Python for data preprocessing and builds multiple machine learning models, including logistic regression, MLP, and random forest. Feature engineering addresses potential data leakage, and model evaluation guides actionable strategy for property agents.
-Key skills: Data cleansing, feature analysis, model comparison, business insight extraction.
+This project analyzes over 200,000 real estate transaction records to predict customer home purchase intentions. Leveraging Python and scikit-learn, I performed extensive data cleaning, exploratory data analysis, and feature engineering. Multiple machine learning models—including Logistic Regression, Multi-Layer Perceptron, and Random Forest—were evaluated to identify the key drivers of property purchases and optimize predictive performance.
+
+Key outcomes include uncovering the most influential features affecting buying decisions, addressing data leakage risks, and delivering actionable recommendations for property agents to refine client targeting and sales strategies.
+
+**Core skills demonstrated:**  
+- Data preprocessing  
+- Exploratory data analysis  
+- Feature engineering  
+- Model selection & evaluation  
+- Business insights communication
